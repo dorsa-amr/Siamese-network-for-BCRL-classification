@@ -1,0 +1,24 @@
+# Data (not part of the repository)
+dataset/
+dataset2/
+
+# Trained weights, logs and generated outputs
+*.pth
+*.pt
+checkpoints/
+saved_models*/
+runs/
+outputs/
+gradcam_outputs/
+tsne_results/
+TUFFC_revises/
+
+# Manuscript files
+*.pdf
+
+# Python / editor
+__pycache__/
+*.pyc
+.history/
+.vscode/
+.ipynb_checkpoints/
